@@ -77,7 +77,7 @@ def get_occurrences(pattern, text, q):
 
             j += 1
             if j == m:
-                arr.append(i+1)
+                arr.append(i)
                 #print("Pattern is found at position: " + str(i+1))
 
         if i < n-m:
