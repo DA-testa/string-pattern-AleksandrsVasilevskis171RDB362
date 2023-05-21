@@ -35,8 +35,8 @@ def read_input():
         second_line = f.readline()
 
 
-    print(first_line)
-    print(second_line)          
+    #print(first_line)
+    #print(second_line)          
     # first line is pattern 
     # second line is text in which to look for pattern 
     
