@@ -30,7 +30,7 @@ def read_input():
         first_line= input()
         second_line = input()  
     elif check == True:
-        f = open("C:/do/a.txt",mode = "r")
+        f = open("tests/06",mode = "r")
         first_line=f.readline()
         second_line = f.readline()
 
